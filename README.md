@@ -1,5 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F658299670530766077%2F&psig=AOvVaw1_ZkokB1D-XjBVsoTsF7aE&ust=1665003481754000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLDpsru7x_oCFQAAAAAdAAAAABAD
-)]
+
 <h1 align="center">Hi 👋, I'm PANKAJ SINGH</h1>
 <img align="right" alt="Coding" width="400" src="[https://in.pinterest.com/pin/658299670530766077.gif/](https://tenor.com/view/gojo-satoru-jujutsu-kaisen-gif-19188408)">
 <h3 align="center">A passionate frontend and backend developer from India</h3>
