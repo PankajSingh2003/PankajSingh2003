@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajsingh2003" alt="pankajsingh2003" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/pankaj_singh___" target="blank"><img src="https://img.shields.io/twitter/follow/pankaj_singh___?logo=twitter&style=for-the-badge" alt="pankaj_singh___" /></a> </p>
 
