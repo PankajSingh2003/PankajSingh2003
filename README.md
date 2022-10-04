@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/gojo-satoru-jujutsu-kaisen-gif-19188408.gif">
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajsingh2003&label=Profile%20views&color=0e75b6&style=flat" alt="pankajsingh2003" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajsingh2003" alt="pankajsingh2003" /></a> </p>
 
