@@ -1,7 +1,7 @@
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F658299670530766077%2F&psig=AOvVaw1_ZkokB1D-XjBVsoTsF7aE&ust=1665003481754000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLDpsru7x_oCFQAAAAAdAAAAABAD
 )]
 <h1 align="center">Hi 👋, I'm PANKAJ SINGH</h1>
-<img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Frapidapi.com%2Fblog%2Ftop-anime-manga-apis%2F&psig=AOvVaw3Fz2ZIhqxtUPeQ4tuQ8169&ust=1665003063738000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMDK5PS5x_oCFQAAAAAdAAAAABAM"](https://rapidapi.com/blog/wp-content/uploads/2018/06/giphy1.gif)></image>
+<img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Frapidapi.com%2Fblog%2Ftop-anime-manga-apis%2F&psig=AOvVaw3Fz2ZIhqxtUPeQ4tuQ8169&ust=1665003063738000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMDK5PS5x_oCFQAAAAAdAAAAABAM"](https://rapidapi.com/blog/wp-content/uploads/2018/06/giphy1.gif)>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajsingh2003&label=Profile%20views&color=0e75b6&style=flat" alt="pankajsingh2003" /> </p>
