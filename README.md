@@ -25,10 +25,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://linkedin.com/in/pankaj-singh-527465197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj-singh-527465197" height="30" width="40" /></a>
 <a href="https://twitter.com/pankaj_singh___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pankaj_singh___" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/pankaj_singh_____/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pankaj_singh_____/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/pankaj_singh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pankaj_singh_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pankaj__singh_____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pankaj__singh_____" height="30" width="40" /></a>
+<a href="https://dev.to/pankajsingh2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pankajsingh2003" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/Y4kHtZqZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Y4kHtZqZ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
