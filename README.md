@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1gHbXip3SrH4JmBrQY4OOfBK3WheGDpLG/view
 
-- ⚡ Fun fact **I Actually Have a Typing speed of 104Wpm**
+- ⚡ Fun fact **I Actually Have a Typing speed of 104Wpm**  https://monkeytype.com/profile/Pankaj_Singh
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
