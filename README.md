@@ -13,13 +13,13 @@
 
 - 🌱 I’m currently learning **Javascript,Node js,Python,C++**
 
-- 👨‍💻 All of my projects are available at [https://pankaj-project.netlify.app/)
+- 👨‍💻 All of my projects are available at https://pankaj-project.netlify.app/
 
 - 💬 Ask me about **C,Python and Typing(keyboards suggestions)**
 
 - 📫 How to reach me **pankajsheelendrasingh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gHbXip3SrH4JmBrQY4OOfBK3WheGDpLG/view)
+- 📄 Know about my experiences https://drive.google.com/file/d/1gHbXip3SrH4JmBrQY4OOfBK3WheGDpLG/view
 
 - ⚡ Fun fact **I Actually Have a Typing speed of 104Wpm**
 
